@@ -58,7 +58,6 @@ and many more, including code architecture and reusability
 ![5](https://github.com/user-attachments/assets/49f2196b-6175-4ca6-91f0-919e9f8963eb)
 ![6](https://github.com/user-attachments/assets/2b8b3698-d7cf-4280-80b3-6c53312ecf82)
 
-User Profile Management
 ## <a name="screen"> User Profile Management Screen </a>
 
 ![7](https://github.com/user-attachments/assets/612bb156-6bfd-4913-a184-be28cbb2a303)
